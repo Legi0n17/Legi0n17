@@ -10,7 +10,9 @@ I am a computer science student with keen interest in field of Cybersecurity who
 *   ✉️  You can contact me at [1617.sid@gmail.com](mailto:1617.sid@gmail.com)
 *   🧠  I'm learning Cyber Security and WEB D.
 *   🤝  I'm open to collaborating on on any project related to cyber security and web d.
-*   ⚡  I play video games on my spear time .### Skills 
+*   ⚡  I play video games on my spear time .### Skills
+
+LANGUAGES & TOOLS:
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
