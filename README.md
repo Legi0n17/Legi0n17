@@ -10,7 +10,7 @@ I am a computer science student with keen interest in field of Cybersecurity who
 *   ✉️  You can contact me at [1617.sid@gmail.com](mailto:1617.sid@gmail.com)
 *   🧠  I'm learning Cyber Security and WEB D.
 *   🤝  I'm open to collaborating on on any project related to cyber security and web d.
-*   ⚡  I play video games on my spear time .
+*   ⚡  I play video games in my spare time .
 
 LANGUAGES & TOOLS:
 <p align="left">
