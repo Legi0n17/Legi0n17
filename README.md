@@ -9,7 +9,7 @@ I am a computer science student with a keen interest in the field of Cybersecuri
 *   🌍  I'm based in INDIA
 *   ✉️  You can contact me at [1617.sid@gmail.com](mailto:1617.sid@gmail.com)
 *   🧠  I'm learning Cyber Security and WEB D.
-*   🤝  I'm open to collaborating on any project related to cyber security and web d.
+*   🤝  I'm open to collaborating on any project related to cyber security.
 *   ⚡  I play video games in my spare time.
 
 LANGUAGES & TOOLS:
