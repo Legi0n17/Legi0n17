@@ -1,7 +1,7 @@
 Hi 👋 My name is Siddharth Singh
 ================================
 
-Cyber security | Web Development
+Cybersecurity & Digital Forensics
 --------------------------------
 
 I am a computer science student with a keen interest in the field of Cybersecurity who Wants to use his Skills and Learning to help people and solve problems.
